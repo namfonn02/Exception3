@@ -14,7 +14,7 @@ public class LAB1 {
         //Object o = null; //(e)
         //System.out.println(o.toString()); //(f)
         //System.out.println(1.0/0);
-        throw new ArithmeticException("Divisor cannot be zero");
+        throw new ArithmeticException();
         
         
     }
